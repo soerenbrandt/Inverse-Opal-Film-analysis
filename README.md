@@ -9,6 +9,17 @@ Simple Matlab GUI to analyze inverse opal films
 #### Installation:
 IOFpore_neck_analysis.m and IOFpore_neck_analysis.fig must be placed in the same directory. When running IOFpore_neck_analysis.m, the GUI is displayed using the outline in IOFpore_neck_analysis.fig.
 
+To install: 
+```shell 
+git close https://github.com/soerenbrandt/Inverse-Opal-Film-analysis.git
+pip install ./Inverse-Opal-Film-analysis
+```
+
+To remove: 
+```shell
+pip remove Inverse-Opal-Film-analysis
+```
+
 #### Application:
 Inverse-Opal-Film-analysis is a tool to analyze the pores in inverse opals, which are close-packed porous films. The analysis involves three features that find the size of the pores (assuming an face-center-cubic packing), their interconnecting necks, and the size of the openings of the top layer (see tutorial). The pores and openings are found using Hough transforms while the necks are located using image thresholding.
 
