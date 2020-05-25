@@ -11,13 +11,7 @@ IOFpore_neck_analysis.m and IOFpore_neck_analysis.fig must be placed in the same
 
 To install: 
 ```shell 
-git close https://github.com/soerenbrandt/Inverse-Opal-Film-analysis.git
-pip install ./Inverse-Opal-Film-analysis
-```
-
-To remove: 
-```shell
-pip remove Inverse-Opal-Film-analysis
+git clone https://github.com/soerenbrandt/Inverse-Opal-Film-analysis.git
 ```
 
 #### Application:
