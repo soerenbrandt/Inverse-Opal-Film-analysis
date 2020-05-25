@@ -15,6 +15,7 @@ Inverse-Opal-Film-analysis is a tool to analyze the pores in inverse opals, whic
 #### Tutorial:
 1. When running IOFpore_neck_analysis.m, an image can be loaded using the prompted dialog. Else, an image can also be selected using the change image field in the GUI.
 <img src="examples/GUI_layout.png" width="400">
+
 2. Measure and adjust the scale bar and roughly measure the size of the pore-to-pore center using the handles underneath the image on the bottom left.
 3. Measure the important dimensions of the inverse opal film by: 
     - adjusting the image properties using the sliders on the top right,
